@@ -1,2 +1,2 @@
 # Password-Complexity-Checker
-This a written in python, this is super simple password complexity checker project.
+This is written in Python. This is a super simple password complexity checker project.
